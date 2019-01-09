@@ -1,4 +1,4 @@
-# Discrete_Bounded_Cake_cutting_Algorithm
+# Discrete and Bounded Cake Cutting Algorithm
 Discrete and bounded cake cutting algorithm
 
 
